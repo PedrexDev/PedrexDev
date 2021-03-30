@@ -8,7 +8,7 @@
 
 <br><br>
 <details>
-  <summary>More if</summary>
+  <summary>More information about me</summary>
 
 <!--START_SECTION:activity-->
 I am Pedrex :O
