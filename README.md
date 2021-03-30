@@ -1,4 +1,4 @@
-<h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MrWakeCZ/MrWakeCZ/master/Hi.gif" width="40px" />, I'm Pedrex</h1>
+<h1 align="center">Hello, <img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/Hi.gif" width="40px" />, I'm Pedrex</h1>
 
 #### I'm a Developer working in Brno, Czech republic.
 - ⚙️ I use daily: `.js`, `.html`, `.css`
@@ -6,7 +6,7 @@
 
 
 
-
+<br><br>
 <details>
   <summary>:zap: Who am I?</summary>
 
