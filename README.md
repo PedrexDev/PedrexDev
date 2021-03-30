@@ -8,7 +8,7 @@
 
 <br><br>
 <details>
-  <summary>:zap: Who am I?</summary>
+  <summary>More if</summary>
 
 <!--START_SECTION:activity-->
 I am Pedrex :O
