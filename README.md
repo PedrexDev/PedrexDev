@@ -3,7 +3,9 @@
 #### I'm a Developer working in Brno, Czech republic.
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Everything for me started with Minecraft 
+
+
+
 
 <details>
   <summary>:zap: Who am I?</summary>
