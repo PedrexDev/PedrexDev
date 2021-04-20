@@ -35,7 +35,7 @@ Sunday       ███░░░░░░░░░░░░░░░░░░░�
   <summary>More information about me</summary>
 
 <!--START_SECTION:info-->
-I am Pedrex :O
+You probably noticed my name. My name is Pedrex. I have been programming since 2017. I started programming websites. And why? I finally wanted to create something I could intervene in and not use Webnode (website builder). Well, then it went smoothly. A year later, I created my first website with just a small CSS file. In 2020, I started learning JavaScript. Now, in 2021, I have a verified bot and I'm having a great time!
 <!--END_SECTION:info-->
 
 </details>
