@@ -2,7 +2,7 @@
 
 #### I'm a Developer working in Brno, Czech republic.
 - ⚙️ I use daily: `.js`, `.html`, `.css`
-- 🥅 2021 Goals: Contribute more Open Source projects
+- 🥅 2021 Goals: Contribute more Open Source projects, get Discord Verified Bot
 
 <!--START_SECTION:pedrex-->
 **I'm working on Daytime** 
