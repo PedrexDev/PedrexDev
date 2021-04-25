@@ -1,5 +1,7 @@
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/Hi.gif" width="40px" />, I'm Pedrex</h1>
 
+Wait! If you see this: ![Pedrex](https://pedrex.eu/pedrex-work.svg) in any Github projects, it means that I was involved in something or that it's just my job!
+
 #### I'm a Developer working in Brno, Czech republic.
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 🥅 2021 Goals: Contribute more Open Source projects, get Discord Verified Bot
@@ -39,5 +41,3 @@ You probably noticed my name. My name is Pedrex. I have been programming since 2
 <!--END_SECTION:info-->
 
 </details>
-
-And! If you see this: ![Pedrex](https://pedrex.eu/pedrex-work.svg) in any Github projects, it means that I was involved in something or that it's just my job!
