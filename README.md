@@ -3,7 +3,7 @@
 Wait! If you see this: ![Pedrex](https://pedrex.eu/pedrex-work.svg) in any Github projects, it means that I was involved in something or that it's just my job!
 
 #### I'm a Developer working in Brno, Czech Republic.
-- ⚙️ I use daily: `.js`, `.html`, `.css`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.hbs`
 - 🥅 2021 Goals: Contribute more Open Source projects, get Discord Verified Bot
 
 <!--START_SECTION:pedrex-->
