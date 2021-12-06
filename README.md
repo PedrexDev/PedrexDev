@@ -1,1 +1,1 @@
-<img src="https://lanyard-profile-readme.vercel.app/api/813812775968833586" width="865"/><center>
+<center><img src="https://i.imgur.com/pz7W0pj.png"></center>
