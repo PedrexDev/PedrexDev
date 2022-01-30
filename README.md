@@ -1,1 +1,1 @@
-<center><img src="https://i.imgur.com/pz7W0pj.png"></center>
+<center><img src="https://i.imgur.com/7PhFCCE.png"></center>
