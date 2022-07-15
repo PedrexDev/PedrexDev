@@ -1,1 +1,1 @@
-<center><img src="https://i.imgur.com/7PhFCCE.png"></center>
+<center><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/pedrex%20github.png"></center>
