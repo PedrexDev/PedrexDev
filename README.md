@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/profilepicture.png" width="192" alt="Pedrex">
+    <img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/pedrex%20circle.png" width="192" alt="Pedrex">
     <h1 align="center">
       <img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/heya.gif" width="32"></img> Welcome on my profile!
     </h1></img>
