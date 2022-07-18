@@ -46,11 +46,11 @@
      <img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/cool.png" width="32"></img> Some cool repositories
 </h2>
 
-<p align="center">
+<p align="center" style="text-decoration: none;">
     <a href="https://github.com/Garlic-Team/gcommands/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Garlic-Team&repo=gcommands&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=0094FF&hide_border=true/" />
     </a>
-    <a href="https://github.com/fosscord/fosscord-server">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fosscord&repo=fosscord-server&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+    <a href="https://github.com/Heges69/nginx-alert">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heges69&repo=nginx-alert&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
 </p>
