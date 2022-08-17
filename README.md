@@ -31,16 +31,6 @@
 <p align="center" style="text-decoration: none"> 
   <img src="https://lanyard.cnrad.dev/api/813812775968833586?theme=dark&animated=true&hideDiscrim=false&borderRadius=14px&idleMessage=Empty"></img>
 </p><br><br>
-
-<h1 align="center">
-     <img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/stats.png" width="32"></img> My GitHub statistics
-</h2>
-
-<p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=PedrexDev&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=0094FF&hide_border=true/" />
-    <a href="https://github.com/Crni39/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=PedrexDev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=0094FF&ring=0094FF&stroke=FFFFFFFF)](https://git.io/streak-stats"></a>
-<p><br><br>
   
 <h1 align="center">
      <img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/cool.png" width="32"></img> Some cool repositories
@@ -49,8 +39,5 @@
 <p align="center" style="text-decoration: none;">
     <a href="https://github.com/Garlic-Team/gcommands/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Garlic-Team&repo=gcommands&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=0094FF&hide_border=true/" />
-    </a>
-    <a href="https://github.com/Heges69/nginx-alert">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heges69&repo=nginx-alert&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
 </p>
