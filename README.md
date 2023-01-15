@@ -29,7 +29,7 @@
 </h2>
 
 <p align="center" style="text-decoration: none"> 
-  <img src="https://profile-counter.glitch.me/trexguo/count.svg"></img>
+  <img src="https://profile-counter.glitch.me/PedrexDev/count.svg"></img>
 </p><br><br>
   
 <h1 align="center">
