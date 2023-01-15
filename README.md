@@ -25,11 +25,11 @@
 </p><br><br>
 
 <h1 align="center">
-     <img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/discord.png" width="32"></img> Discord status
+     😚 Profile visitors
 </h2>
 
 <p align="center" style="text-decoration: none"> 
-  <img src="https://lanyard.cnrad.dev/api/813812775968833586?theme=dark&animated=true&hideDiscrim=false&borderRadius=14px&idleMessage=Empty"></img>
+  <img src="https://profile-counter.glitch.me/trexguo/count.svg"></img>
 </p><br><br>
   
 <h1 align="center">
@@ -37,7 +37,7 @@
 </h2>
 
 <p align="center" style="text-decoration: none;">
-    <a href="https://github.com/Garlic-Team/gcommands/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Garlic-Team&repo=gcommands&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=0094FF&hide_border=true/" />
+    <a href="https://github.com/PedrexDev/my-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedrexDev&repo=my-website&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=0094FF&hide_border=true/" />
     </a>
 </p>
