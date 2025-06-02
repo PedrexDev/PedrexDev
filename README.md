@@ -39,7 +39,7 @@ This is still a work in progress. So far everything that would be representative
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="12"/> Mail
   </a> <br>
   <a href="https://discordapp.com/users/813812775968833586" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="12"/> pedrexikk on Discord
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="12"/> Discord
   </a>
 </p>
 
