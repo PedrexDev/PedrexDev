@@ -31,17 +31,17 @@ This is still a work in progress. So far everything that would be representative
 
 ## 📬 Connect with Me
 
+
 <p align="left">
-  <a href="https://pedrex.dev/" target="_blank">
-    <img src="https://cdn.simpleicons.org/internetarchive/58A6FF" width="12"/> Web
-  </a> <br>
-  <a href="mailto:pedrexik@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="12"/> Mail
-  </a> <br>
-  <a href="https://discordapp.com/users/813812775968833586" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="12"/> Discord
+  <a href="https://pedrex.sbs" target="_blank">
+    <img src="https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=internetarchive&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:pedrexik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/813812775968833586" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 
 ---
 
