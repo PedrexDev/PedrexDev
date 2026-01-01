@@ -10,8 +10,8 @@
   "name": "Petr Richter",
   "pronouns": "he/him",
   "about": "Self‑taught Full‑Stack Developer & Maker from Czech Republic",
-  "currentFocus": "Custom forum platform & embedded UI projects",
-  "learning": "Rust, Unreal Engine",
+  "currentFocus": "On some really random stuff",
+  "tryingToLearn": "Rust, Unreal Engine",
   "skills": {
     "languages": ["JavaScript", "TypeScript", "Python", "C#"],
     "web": ["React", "Next.js", "Express", "HTML", "CSS", "Bootstrap"],
@@ -21,9 +21,9 @@
     "os": ["Ubuntu", "Windows"]
   },
   "letsConnect": {
-      "email": "contact@pedrex.sbs",
+      "email": "pedrexik@gmail.com",
       "discord": "@pedrexikk",
-      "instagram": "@pedrexik"
+      "instagram": "@ped.rexik"
    },
-   "web": "https://pedrex.sbs/",
+   "web": "https://dobrejpok.us",
 }
